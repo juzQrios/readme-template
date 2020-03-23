@@ -1,6 +1,6 @@
 # README Template
 
-> My personal README template
+> My personal README template.
 
 [//]: # (Screenshot, Application concept art etc)
 ![README Image](./readme-image.png)
@@ -15,3 +15,43 @@
 * Major Languages
 * Frameworks
 * Tools etc.
+
+## Get Started
+
+### Setup
+
+1. Clone this repository.
+
+```bash
+git clone git@github.com:juzQrios/readme-template.git
+```
+
+2. Installation steps, if any.
+
+### Tests
+
+### Deployment
+
+## Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to checkout this project's [Kanban board](https://github.com/juzQrios/readme-template/projects/1) or [issues page](https://github.com/juzQrios/readme-template/issues).
+
+## Acknowledgments
+
+* [Microverse README template](https://github.com/microverseinc/readme-template)
+* Anyone whose code was used
+* Inspiration
+
+## License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Authors
+
+#### Darshan
+
+* Github: [@juzQrios](https://github.com/juzQrios)
+* Linkedin: [Darshan J](https://www.linkedin.com/in/jayadevdarshan/)
+* Email: <jayadev.darshan@gmail.com>
