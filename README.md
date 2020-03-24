@@ -30,6 +30,8 @@ git clone git@github.com:juzQrios/readme-template.git
 
 ### Tests
 
+While it is a good practice to test code, this project doesn't have any tests right now but I might add them in future.
+
 ### Deployment
 
 ## Contributing
